@@ -1,0 +1,6 @@
+name: OGProtocol-Minecraft
+version: '1.0'
+main: jaime.oGProtocolMinecraft.OGProtocolMinecraft
+api-version: '1.21'
+authors: [ Jaime ]
+description: KlawX clans plugin
